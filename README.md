@@ -56,9 +56,9 @@ The Flutter frontend for **CineMax**, a full-featured movie ticket booking app. 
 <p align="center">
   <img src="movie_app_screenshot/add_theater.jpg" width="120"/>
   <img src="movie_app_screenshot/add_showtime.jpg" width="120"/>
-  <img src="movie_app_screenshot/admin_panel.jpg" width="120"/>
-  <img src="movie_app_screenshot/admin_panel_01.jpg" width="120"/>
-  <img src="movie_app_screenshot/admin_panel_02.jpg" width="120"/>
+  <img src="movie_app_screenshot/admin_pannel.jpg" width="120"/>
+  <img src="movie_app_screenshot/admin_pannel_01.jpg" width="120"/>
+  <img src="movie_app_screenshot/admin_pannel_02.jpg" width="120"/>
   <img src="movie_app_screenshot/logout_card.jpg" width="120"/>
 </p>
 
