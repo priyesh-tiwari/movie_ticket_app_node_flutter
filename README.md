@@ -12,6 +12,7 @@ The Flutter frontend for **CineMax**, a full-featured movie ticket booking app. 
 
 ---
 ## 📱 Demo Video
+> 🔗 Link: [CineMax-demo-video](https://drive.google.com/drive/folders/19pqh5j9x1kB-Y555iKwShNFAs2sz79Lb?usp=sharing)
 
 
 ---
@@ -44,27 +45,6 @@ The Flutter frontend for **CineMax**, a full-featured movie ticket booking app. 
 | Local Storage | SharedPreferences/Flutter Secure Storage |
 
 ---
-
-## 🗂️ Project Structure
-
-```
-lib/
-├── main.dart
-├── core/
-│   ├── constants/          # API base URL, app constants
-│   ├── theme/              # App theme, colors, text styles
-│   └── utils/              # Helpers, validators
-├── models/                 # Data models (Movie, Seat, Booking, User...)
-├── services/               # API service classes
-├── providers/              # State management
-└── screens/
-    ├── auth/               # Login, Signup, OTP, Forgot Password
-    ├── home/               # Home screen, movie listing
-    ├── movie/              # Movie detail, trailer
-    ├── booking/            # Theater list, seat selection, payment
-    ├── profile/            # User profile, photo edit
-    └── my_bookings/        # Booking history and receipts
-```
 
 ---
 
