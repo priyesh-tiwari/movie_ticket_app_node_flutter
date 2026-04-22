@@ -16,54 +16,64 @@ The Flutter frontend for **CineMax**, a full-featured movie ticket booking app. 
 
 ## 📸 Screenshots
 
-### 🚀 App Preview
-
-
-
----
+<details>
+<summary><b>🔐 Authentication — click to view</b></summary>
+<br/>
+<p align="center">
+  <img src="movie_app_screenshot/splash.jpg" width="180" hspace="6"/>
+  <img src="movie_app_screenshot/login.jpg" width="180" hspace="6"/>
+  <img src="movie_app_screenshot/signup.jpg" width="180" hspace="6"/>
+  <img src="movie_app_screenshot/signup_otp.jpg" width="180" hspace="6"/>
+  <img src="movie_app_screenshot/email_otp.jpg" width="180" hspace="6"/>
+</p>
+</details>
 
 <details>
-<summary>🔵 <b>View all screenshots</b></summary>
-
+<summary><b>🎬 Home & Search — click to view</b></summary>
 <br/>
-
 <p align="center">
-  <img src="movie_app_screenshot/home.jpg" width="180"/>
-  <img src="movie_app_screenshot/movie_description.jpg" width="180"/>
-  <img src="movie_app_screenshot/seat.jpg" width="180"/>
-  <img src="movie_app_screenshot/payment.jpg" width="180"/>
+  <img src="movie_app_screenshot/home.jpg" width="180" hspace="6"/>
+  <img src="movie_app_screenshot/home_01.jpg" width="180" hspace="6"/>
+  <img src="movie_app_screenshot/home_02.jpg" width="180" hspace="6"/>
+  <img src="movie_app_screenshot/home_search_bar.jpg" width="180" hspace="6"/>
+  <img src="movie_app_screenshot/search_bar.jpg" width="180" hspace="6"/>
 </p>
+</details>
 
+<details>
+<summary><b>🎟️ Booking Flow — click to view</b></summary>
+<br/>
 <p align="center">
-  <img src="movie_app_screenshot/home_01.jpg" width="120"/>
-  <img src="movie_app_screenshot/home_02.jpg" width="120"/>
-  <img src="movie_app_screenshot/home_search_bar.jpg" width="120"/>
-  <img src="movie_app_screenshot/login.jpg" width="120"/>
+  <img src="movie_app_screenshot/movie_description.jpg" width="180" hspace="6"/>
+  <img src="movie_app_screenshot/select_theater.jpg" width="180" hspace="6"/>
+  <img src="movie_app_screenshot/seat.jpg" width="180" hspace="6"/>
+  <img src="movie_app_screenshot/payment.jpg" width="180" hspace="6"/>
 </p>
+</details>
 
+<details>
+<summary><b>🧾 Receipt & Profile — click to view</b></summary>
+<br/>
 <p align="center">
-  <img src="movie_app_screenshot/signup.jpg" width="120"/>
-  <img src="movie_app_screenshot/signup_otp.jpg" width="120"/>
-  <img src="movie_app_screenshot/email_otp.jpg" width="120"/>
-  <img src="movie_app_screenshot/select_theater.jpg" width="120"/>
+  <img src="movie_app_screenshot/receipt.jpg" width="180" hspace="6"/>
+  <img src="movie_app_screenshot/my_bookings.jpg" width="180" hspace="6"/>
+  <img src="movie_app_screenshot/profile.jpg" width="180" hspace="6"/>
+  <img src="movie_app_screenshot/drawer.jpg" width="180" hspace="6"/>
+  <img src="movie_app_screenshot/logout_card.jpg" width="180" hspace="6"/>
 </p>
+</details>
 
+<details>
+<summary><b>🏟️ Admin Panel — click to view</b></summary>
+<br/>
 <p align="center">
-  <img src="movie_app_screenshot/receipt.jpg" width="120"/>
-  <img src="movie_app_screenshot/my_bookings.jpg" width="120"/>
-  <img src="movie_app_screenshot/profile.jpg" width="120"/>
-  <img src="movie_app_screenshot/drawer.jpg" width="120"/>
+  <img src="movie_app_screenshot/admin_pannel.jpg" width="180" hspace="6"/>
+  <img src="movie_app_screenshot/addmin_pannel_01.jpg" width="180" hspace="6"/>
+  <img src="movie_app_screenshot/admin_pannel_02.jpg" width="180" hspace="6"/>
+  <img src="movie_app_screenshot/add_theater.jpg" width="180" hspace="6"/>
+  <img src="movie_app_screenshot/add_showtime.jpg" width="180" hspace="6"/>
+  <img src="movie_app_screenshot/logout_card.jpg" width="180" hspace="6"/>
 </p>
-
-<p align="center">
-  <img src="movie_app_screenshot/add_theater.jpg" width="120"/>
-  <img src="movie_app_screenshot/add_showtime.jpg" width="120"/>
-  <img src="movie_app_screenshot/admin_pannel.jpg" width="120"/>
-  <img src="movie_app_screenshot/admin_pannel_01.jpg" width="120"/>
-  <img src="movie_app_screenshot/admin_pannel_02.jpg" width="120"/>
-  <img src="movie_app_screenshot/logout_card.jpg" width="120"/>
-</p>
-
 </details>
 
 ---
