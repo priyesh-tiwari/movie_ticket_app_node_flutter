@@ -52,17 +52,18 @@ The Flutter frontend for **CineMax**, a full-featured movie ticket booking app. 
 
 ### Prerequisites
 
-- Flutter SDK >= 3.x
-- Dart >= 3.x
+- Flutter SDK ^3.8.1
+- Dart >= 3.8.1
 - Android Studio or VS Code with Flutter extension
 - A running CineMax backend (deployed)
 
 ### Installation
 
 ```bash
-git clone https://github.com/yourusername/cinemax-frontend.git
-cd cinemax-frontend
+git clone https://github.com/priyesh-tiwari/movie_ticket_app_node_flutter.git
+cd movie_ticket_app_node_flutter
 flutter pub get
+flutter run
 ```
 
 
