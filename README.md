@@ -9,7 +9,7 @@ The Flutter frontend for **CineMax**, a full-featured movie ticket booking app. 
 ## 📸 Screenshots
 
 <details>
-<summary>👉 Click to view all screenshots</summary>
+<summary>🔵 <a href="#">Click to view all screenshots</a></summary>
 
 <br/>
 
@@ -47,6 +47,7 @@ The Flutter frontend for **CineMax**, a full-featured movie ticket booking app. 
   <img src="movie_app_screenshot/admin_panel.jpg" width="120"/>
   <img src="movie_app_screenshot/admin_panel_01.jpg" width="120"/>
   <img src="movie_app_screenshot/admin_panel_02.jpg" width="120"/>
+  <img src="movie_app_screenshot/logout_card.jpg" width="120"/>
 </p>
 
 </details>
