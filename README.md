@@ -6,9 +6,37 @@ The Flutter frontend for **CineMax**, a full-featured movie ticket booking app. 
 
 ---
 
-## 📱 Screenshots
+## 📸 Screenshots
 
-> _Add screenshots here_
+### 🧑‍💻 User Flow
+
+| Home | Search | Movie Details |
+|------|--------|--------------|
+| <img src="movie_app_screenshot/home.jpg" width="200"/> | <img src="movie_app_screenshot/search_bar.jpg" width="200"/> | <img src="movie_app_screenshot/movie_description.jpg" width="200"/> |
+
+| Select Theater | Seat Selection | Payment |
+|----------------|----------------|---------|
+| <img src="movie_app_screenshot/select_theater.jpg" width="200"/> | <img src="movie_app_screenshot/seat.jpg" width="200"/> | <img src="movie_app_screenshot/payment.jpg" width="200"/> |
+
+| Booking Receipt | My Bookings | Profile |
+|----------------|-------------|---------|
+| <img src="movie_app_screenshot/receipt.jpg" width="200"/> | <img src="movie_app_screenshot/my_bookings.jpg" width="200"/> | <img src="movie_app_screenshot/profile.jpg" width="200"/> |
+
+---
+
+### 🔐 Authentication Flow
+
+| Signup | OTP Verification | Login |
+|--------|------------------|-------|
+| <img src="movie_app_screenshot/signup.jpg" width="200"/> | <img src="movie_app_screenshot/signup_otp.jpg" width="200"/> | <img src="movie_app_screenshot/login.jpg" width="200"/> |
+
+---
+
+### 🧑‍💼 Admin Panel
+
+| Add Theater | Add Showtime | Admin Dashboard |
+|-------------|-------------|-----------------|
+| <img src="movie_app_screenshot/add_theater.jpg" width="200"/> | <img src="movie_app_screenshot/add_showtime.jpg" width="200"/> | <img src="movie_app_screenshot/admin_panel.jpg" width="200"/> |
 
 ---
 ## 📱 Demo Video
