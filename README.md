@@ -8,36 +8,48 @@ The Flutter frontend for **CineMax**, a full-featured movie ticket booking app. 
 
 ## 📸 Screenshots
 
-### 🧑‍💻 User Flow
+<details>
+<summary>👉 Click to view all screenshots</summary>
 
-| Home | Search | Movie Details |
-|------|--------|--------------|
-| <img src="movie_app_screenshot/home.jpg" width="200"/> | <img src="movie_app_screenshot/search_bar.jpg" width="200"/> | <img src="movie_app_screenshot/movie_description.jpg" width="200"/> |
+<br/>
 
-| Select Theater | Seat Selection | Payment |
-|----------------|----------------|---------|
-| <img src="movie_app_screenshot/select_theater.jpg" width="200"/> | <img src="movie_app_screenshot/seat.jpg" width="200"/> | <img src="movie_app_screenshot/payment.jpg" width="200"/> |
+<p align="center">
+  <img src="movie_app_screenshot/home.jpg" width="120"/>
+  <img src="movie_app_screenshot/home_01.jpg" width="120"/>
+  <img src="movie_app_screenshot/home_02.jpg" width="120"/>
+  <img src="movie_app_screenshot/home_search_bar.jpg" width="120"/>
+</p>
 
-| Booking Receipt | My Bookings | Profile |
-|----------------|-------------|---------|
-| <img src="movie_app_screenshot/receipt.jpg" width="200"/> | <img src="movie_app_screenshot/my_bookings.jpg" width="200"/> | <img src="movie_app_screenshot/profile.jpg" width="200"/> |
+<p align="center">
+  <img src="movie_app_screenshot/login.jpg" width="120"/>
+  <img src="movie_app_screenshot/signup.jpg" width="120"/>
+  <img src="movie_app_screenshot/signup_otp.jpg" width="120"/>
+  <img src="movie_app_screenshot/email_otp.jpg" width="120"/>
+</p>
 
----
+<p align="center">
+  <img src="movie_app_screenshot/movie_description.jpg" width="120"/>
+  <img src="movie_app_screenshot/select_theater.jpg" width="120"/>
+  <img src="movie_app_screenshot/seat.jpg" width="120"/>
+  <img src="movie_app_screenshot/payment.jpg" width="120"/>
+</p>
 
-### 🔐 Authentication Flow
+<p align="center">
+  <img src="movie_app_screenshot/receipt.jpg" width="120"/>
+  <img src="movie_app_screenshot/my_bookings.jpg" width="120"/>
+  <img src="movie_app_screenshot/profile.jpg" width="120"/>
+  <img src="movie_app_screenshot/drawer.jpg" width="120"/>
+</p>
 
-| Signup | OTP Verification | Login |
-|--------|------------------|-------|
-| <img src="movie_app_screenshot/signup.jpg" width="200"/> | <img src="movie_app_screenshot/signup_otp.jpg" width="200"/> | <img src="movie_app_screenshot/login.jpg" width="200"/> |
+<p align="center">
+  <img src="movie_app_screenshot/add_theater.jpg" width="120"/>
+  <img src="movie_app_screenshot/add_showtime.jpg" width="120"/>
+  <img src="movie_app_screenshot/admin_panel.jpg" width="120"/>
+  <img src="movie_app_screenshot/admin_panel_01.jpg" width="120"/>
+  <img src="movie_app_screenshot/admin_panel_02.jpg" width="120"/>
+</p>
 
----
-
-### 🧑‍💼 Admin Panel
-
-| Add Theater | Add Showtime | Admin Dashboard |
-|-------------|-------------|-----------------|
-| <img src="movie_app_screenshot/add_theater.jpg" width="200"/> | <img src="movie_app_screenshot/add_showtime.jpg" width="200"/> | <img src="movie_app_screenshot/admin_panel.jpg" width="200"/> |
-
+</details>
 ---
 ## 📱 Demo Video
 > 🔗 Link: [CineMax-demo-video](https://drive.google.com/drive/folders/19pqh5j9x1kB-Y555iKwShNFAs2sz79Lb?usp=sharing)
