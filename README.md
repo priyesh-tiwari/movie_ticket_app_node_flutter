@@ -6,55 +6,67 @@ The Flutter frontend for **CineMax**, a full-featured movie ticket booking app. 
 
 ---
 
+## 📱 Demo Video
+
+> 🎬 Watch the full app walkthrough here — recommended since some features may not work in the APK due to Render free tier limitations.
+
+[![Watch Demo](https://img.shields.io/badge/▶%20Watch%20Demo-Google%20Drive-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/drive/folders/19pqh5j9x1kB-Y555iKwShNFAs2sz79Lb?usp=sharing)
+
+---
+
 ## 📸 Screenshots
 
-<details>
-<summary>🔵 <a href="#">Click to view all screenshots</a></summary>
-
-<br/>
-
+### 🔐 Authentication
 <p align="center">
-  <img src="movie_app_screenshot/home.jpg" width="120"/>
-  <img src="movie_app_screenshot/home_01.jpg" width="120"/>
-  <img src="movie_app_screenshot/home_02.jpg" width="120"/>
-  <img src="movie_app_screenshot/home_search_bar.jpg" width="120"/>
+  <img src="movie_app_screenshot/splash.jpg" width="180" hspace="6"/>
+  <img src="movie_app_screenshot/login.jpg" width="180" hspace="6"/>
+  <img src="movie_app_screenshot/signup.jpg" width="180" hspace="6"/>
+  <img src="movie_app_screenshot/signup_otp.jpg" width="180" hspace="6"/>
+</p>
+<p align="center">
+  <img src="movie_app_screenshot/email_otp.jpg" width="180" hspace="6"/>
 </p>
 
+### 🎬 Home & Search
 <p align="center">
-  <img src="movie_app_screenshot/login.jpg" width="120"/>
-  <img src="movie_app_screenshot/signup.jpg" width="120"/>
-  <img src="movie_app_screenshot/signup_otp.jpg" width="120"/>
-  <img src="movie_app_screenshot/email_otp.jpg" width="120"/>
+  <img src="movie_app_screenshot/home.jpg" width="180" hspace="6"/>
+  <img src="movie_app_screenshot/home_01.jpg" width="180" hspace="6"/>
+  <img src="movie_app_screenshot/home_02.jpg" width="180" hspace="6"/>
+  <img src="movie_app_screenshot/home_search_bar.jpg" width="180" hspace="6"/>
+</p>
+<p align="center">
+  <img src="movie_app_screenshot/search_bar.jpg" width="180" hspace="6"/>
 </p>
 
+### 🎟️ Booking Flow
 <p align="center">
-  <img src="movie_app_screenshot/movie_description.jpg" width="120"/>
-  <img src="movie_app_screenshot/select_theater.jpg" width="120"/>
-  <img src="movie_app_screenshot/seat.jpg" width="120"/>
-  <img src="movie_app_screenshot/payment.jpg" width="120"/>
+  <img src="movie_app_screenshot/movie_description.jpg" width="180" hspace="6"/>
+  <img src="movie_app_screenshot/select_theater.jpg" width="180" hspace="6"/>
+  <img src="movie_app_screenshot/seat.jpg" width="180" hspace="6"/>
+  <img src="movie_app_screenshot/payment.jpg" width="180" hspace="6"/>
 </p>
 
+### 🧾 Receipt & Profile
 <p align="center">
-  <img src="movie_app_screenshot/receipt.jpg" width="120"/>
-  <img src="movie_app_screenshot/my_bookings.jpg" width="120"/>
-  <img src="movie_app_screenshot/profile.jpg" width="120"/>
-  <img src="movie_app_screenshot/drawer.jpg" width="120"/>
+  <img src="movie_app_screenshot/receipt.jpg" width="180" hspace="6"/>
+  <img src="movie_app_screenshot/my_bookings.jpg" width="180" hspace="6"/>
+  <img src="movie_app_screenshot/profile.jpg" width="180" hspace="6"/>
+  <img src="movie_app_screenshot/drawer.jpg" width="180" hspace="6"/>
+</p>
+<p align="center">
+  <img src="movie_app_screenshot/logout_card.jpg" width="180" hspace="6"/>
 </p>
 
+### 🏟️ Admin Panel
 <p align="center">
-  <img src="movie_app_screenshot/add_theater.jpg" width="120"/>
-  <img src="movie_app_screenshot/add_showtime.jpg" width="120"/>
-  <img src="movie_app_screenshot/admin_panel.jpg" width="120"/>
-  <img src="movie_app_screenshot/admin_panel_01.jpg" width="120"/>
-  <img src="movie_app_screenshot/admin_panel_02.jpg" width="120"/>
-  <img src="movie_app_screenshot/logout_card.jpg" width="120"/>
+  <img src="movie_app_screenshot/admin_pannel.jpg" width="180" hspace="6"/>
+  <img src="movie_app_screenshot/addmin_pannel_01.jpg" width="180" hspace="6"/>
+  <img src="movie_app_screenshot/admin_pannel_02.jpg" width="180" hspace="6"/>
+  <img src="movie_app_screenshot/add_theater.jpg" width="180" hspace="6"/>
 </p>
-
-</details>
----
-## 📱 Demo Video
-> 🔗 Link: [CineMax-demo-video](https://drive.google.com/drive/folders/19pqh5j9x1kB-Y555iKwShNFAs2sz79Lb?usp=sharing)
-
+<p align="center">
+  <img src="movie_app_screenshot/add_showtime.jpg" width="180" hspace="6"/>
+</p>
 
 ---
 
