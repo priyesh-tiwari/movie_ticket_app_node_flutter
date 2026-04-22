@@ -169,6 +169,6 @@ Role is determined from the JWT payload on login. Admin screens are only rendere
 
 The backend is deployed on [Render](https://render.com).
 
-> ⚠️ **Cold Start Warning:** The free tier backend may take **30–50 seconds** to respond after a period of inactivity. This is expected — not a bug in the app. > ⚠️ **Signup using OTP:** The nodemailer does not work on free tier render plan, so to see the full flow lease refer tothe demo video link attached.
+> ⚠️ **Cold Start Warning:** The free tier backend may take **30–50 seconds** to respond after a period of inactivity. This is expected — not a bug in the app. > > ⚠️ **Signup using OTP:** The nodemailer does not work on free tier render plan, so to see the full flow lease refer tothe demo video link attached.>
 
 ---
