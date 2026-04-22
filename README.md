@@ -2,7 +2,7 @@
 
 The Flutter frontend for **CineMax**, a full-featured movie ticket booking app. Browse movies, watch trailers, select seats, and book tickets seamlessly on Android & IOS.
 
-> 🔗 Backend Repository: [cinemax-backend]([https://github.com/yourusername/cinemax-backend](https://github.com/priyesh-tiwari/movie_ticket_app_node_backend))
+> 🔗 Backend Repository: [cinemax-backend](https://github.com/priyesh-tiwari/movie_ticket_app_node_backend)
 
 ---
 
